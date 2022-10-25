@@ -30,5 +30,5 @@ for (int i = 0; i < numberOfRecords; i++)
 5. Replace “MyClass” with the child class that you made in step 2.  
 6. You should allow the user to add data for every property in your class.  So with the cat example, the user should be able to add values for every property of Cat which includes the properties from Animal.
 7. Print the objects in recordList to the screen
-8. Upload to a new repository on your Github account.
+8. Upload to the repository we created earlier on your Github account.
 9. Turn in the knowledge check in Google Classroom. Make sure you include the link to your new GitHub repository when you "Turn In" the assignment.
