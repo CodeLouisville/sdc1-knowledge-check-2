@@ -35,12 +35,19 @@
    1. Either through Add file > upload files
    1. Or via git commands
       1. `cd <to-the-project-folder>`
+         1. This will change the directory in terminal/command line to the folder you specify.
       1. `git init`
+         1. This will tell git to initialize a git repo in the current directory.
       1. `git remote add origin <url-to-repo>`
+         1. This will tell git to add a new remote to the current git repo.
       1. `git pull`
+         1. This will tell git to pull down the remote git repo which will be from github.
       1. `git add .`
+         1. This will stage all local changes.
       1. `git commit -m"I did it!"`
+         1. This commits the staged changes into the git repo.
       1. `git push`
+         1. This will push the local git history to the remote (github).
 1. Turn in the knowledge check in Google Classroom. Make sure you include the link to your new GitHub repository when you "Turn In" the assignment.
 
 [Product]: https://github.com/CodeLouisville/Software-Pet-Store/blob/main/PetStore/PetStore/Models/Product.cs
