@@ -26,7 +26,7 @@
 	```
 
 1. Replace `MyClass` with the child class that you made in step 2.
-1. Replace `MyClass.YourProperty` witht he child class property you made in step 2.
+1. Replace `MyClass.myProperty` with the child class property you created in step 2.
 1. You should allow the user to add data for every property in your class.  
    1. So with the [CatFood][CatFood] example, the user should be able to add values for every property of [CatFood][CatFood] (KittenFood) which includes the properties from [Product][Product] (Price, Name, Quantity, Description).
 1. Print the objects in recordList to the screen
